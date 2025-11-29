@@ -12,7 +12,7 @@ This project recreates YouTube’s homepage UI, including video grids, sidebar, 
 * 🔔 **Notification Panel** – Bell icon with notification UI
 * 🎥 **Video Cards** – Thumbnail, title, channel name, views
 * 📚 **Video Grid Layout** – Adaptive grid for all screen sizes
-* 📌 **Navbar** – Logo, menu, search bar, mic icon & user avatar
+* 📌 **Navbar** – Logo, menu, search bar, notification icon & user avatar
 * 📱 **Fully Responsive Design**
 
 ---
@@ -34,7 +34,7 @@ This project recreates YouTube’s homepage UI, including video grids, sidebar, 
 ## 🛠️ Tech Stack
 
 * **React.js**
-* **TailwindCSS / CSS** (your choice)
+* **TailwindCSS**
 * **React Icons**
 * **Flexbox & Grid**
 
@@ -58,9 +58,10 @@ npm run dev
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots 
 
 <img width="1348" height="646" alt="image" src="https://github.com/user-attachments/assets/6f78defd-d7bb-4db3-9629-c7c88b66d34d" />
+---
 <img width="609" height="576" alt="image" src="https://github.com/user-attachments/assets/fa756365-ef47-445f-8f5a-a908c9ac05cc" />
 
 ---
