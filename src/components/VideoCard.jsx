@@ -1,7 +1,7 @@
 import React from 'react'
 
 export default function VideoCard(props){
-    return <div className='w-[90%]'>
+    return <div className='w-full mb-4'>
         <img src={props.thumbnail} alt="" className='w-full rounded-2xl' />
         <div className="flex mt-3">
             <img src={props.logo} alt="" className='rounded-full w-15 h-15'/>
