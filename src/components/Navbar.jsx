@@ -6,8 +6,8 @@ import Menu from './Menu'
 
 export default function Navbar() {
     return (
-        <div className="flex justify-around items-center h-15">
-            <div className='flex gap-3'>
+        <div className="flex items-center h-15 justify-between px-5 md:px-10">
+            <div className='flex gap-7 md:gap-10'>
             <Menu />
             <img src="./youtubelogo.png" alt="" className='w-auto h-6' />
             </div>
