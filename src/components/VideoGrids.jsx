@@ -18,6 +18,62 @@ export default function VideoGrids() {
         views: "132M",
         timestamp: "2 years"
 
+    },  {
+        thumbnail: "thumbnail.png",
+        logo: "logo.png",
+        title: "9841 - Sajjan Raj Vaidiya Offical",
+        aurthor: "Tilak man gubhaju",
+        views: "132M",
+        timestamp: "2 years"
+
+    }, {
+        thumbnail: "thumbnail.png",
+        logo: "logo.png",
+        title: "9841 - Sajjan Raj Vaidiya Offical",
+        aurthor: "Tilak man gubhaju",
+        views: "132M",
+        timestamp: "2 years"
+
+    }, {
+        thumbnail: "thumbnail.png",
+        logo: "logo.png",
+        title: "9841 - Sajjan Raj Vaidiya Offical",
+        aurthor: "Tilak man gubhaju",
+        views: "132M",
+        timestamp: "2 years"
+
+    },  {
+        thumbnail: "thumbnail.png",
+        logo: "logo.png",
+        title: "9841 - Sajjan Raj Vaidiya Offical",
+        aurthor: "Tilak man gubhaju",
+        views: "132M",
+        timestamp: "2 years"
+
+    },  {
+        thumbnail: "thumbnail.png",
+        logo: "logo.png",
+        title: "9841 - Sajjan Raj Vaidiya Offical",
+        aurthor: "Tilak man gubhaju",
+        views: "132M",
+        timestamp: "2 years"
+
+    },  {
+        thumbnail: "thumbnail.png",
+        logo: "logo.png",
+        title: "9841 - Sajjan Raj Vaidiya Offical",
+        aurthor: "Tilak man gubhaju",
+        views: "132M",
+        timestamp: "2 years"
+
+    },  {
+        thumbnail: "thumbnail.png",
+        logo: "logo.png",
+        title: "9841 - Sajjan Raj Vaidiya Offical",
+        aurthor: "Tilak man gubhaju",
+        views: "132M",
+        timestamp: "2 years"
+
     }, {
         thumbnail: "thumbnail.png",
         logo: "logo.png",
@@ -27,7 +83,7 @@ export default function VideoGrids() {
         timestamp: "7 years"
 
     }]
-    return (<div className='grid grid-cols-1 md:grid-cols-2 gap-5 lg:grid-cols-4'>
+    return (<div className='w-full justify-items-center content-center grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3'>
         {data.map((data, idx) => {
             return <VideoCard title={data.title}
                 thumbnail={data.thumbnail}

@@ -1,7 +1,7 @@
 import React from 'react'
 
 export default function SearchBar() {
-    return (<div className='flex items-center justify-between border-1 border-gray-600 rounded-2xl w-99 h-10 overflow-hidden'>
+    return (<div className='flex items-center justify-between border-1 border-gray-600 rounded-4xl w-99 h-9 overflow-hidden'>
         <div className='flex items-center px-3'>
             <input type="text" placeholder='Search' className='outline-0 px-2' />
         </div>
