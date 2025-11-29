@@ -60,7 +60,8 @@ npm run dev
 
 ## 📸 Screenshots (Optional)
 
-Add UI images here once deployed or tested.
+<img width="1348" height="646" alt="image" src="https://github.com/user-attachments/assets/6f78defd-d7bb-4db3-9629-c7c88b66d34d" />
+<img width="609" height="576" alt="image" src="https://github.com/user-attachments/assets/fa756365-ef47-445f-8f5a-a908c9ac05cc" />
 
 ---
 
