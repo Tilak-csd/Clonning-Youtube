@@ -44,7 +44,7 @@ This project recreates YouTube’s homepage UI, including video grids, sidebar, 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/c.git
+git clone https://github.com/Tilak-csd/clonning-youtube.git
 
 # Navigate into the project
 cd youtube-landing-clone
