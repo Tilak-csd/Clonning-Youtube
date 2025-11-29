@@ -1,16 +1,89 @@
-# React + Vite
+# 📺 YouTube Landing Page Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive **YouTube landing page clone** built using **React.js**.
+This project recreates YouTube’s homepage UI, including video grids, sidebar, navbar, search, and notification sections.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+* 🔍 **Search Bar** – Responsive search input similar to YouTube
+* 🧭 **Sidebar** – Collapsible navigation menu with iconic sections
+* 🔔 **Notification Panel** – Bell icon with notification UI
+* 🎥 **Video Cards** – Thumbnail, title, channel name, views
+* 📚 **Video Grid Layout** – Adaptive grid for all screen sizes
+* 📌 **Navbar** – Logo, menu, search bar, mic icon & user avatar
+* 📱 **Fully Responsive Design**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📦 Components
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Component          | Description                        |
+| ------------------ | ---------------------------------- |
+| `Menu.jsx`         | Controls the hamburger/menu toggle |
+| `Navbar.jsx`       | Top navigation section             |
+| `Notification.jsx` | Notification dropdown UI           |
+| `SearchBar.jsx`    | YouTube-style search bar           |
+| `Sidebar.jsx`      | Left-side navigation menu          |
+| `VideoCard.jsx`    | Reusable video card component      |
+| `VideoGrids.jsx`   | Displays a grid layout of videos   |
+
+---
+
+## 🛠️ Tech Stack
+
+* **React.js**
+* **TailwindCSS / CSS** (your choice)
+* **React Icons**
+* **Flexbox & Grid**
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/c.git
+
+# Navigate into the project
+cd youtube-landing-clone
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+---
+
+## 📸 Screenshots (Optional)
+
+Add UI images here once deployed or tested.
+
+---
+
+## ✨ Future Improvements
+
+* Add real API data using YouTube API
+* Add video player page
+* Add user login
+* Add dark/light theme
+
+---
+
+## 🤝 Contribution
+
+Feel free to open issues or submit PRs.
+This project is open for improvement!
+
+---
+
+## 📄 License
+
+MIT License © 2025
+
+---
+
+Thank you for checking out this YouTube landing page clone!
